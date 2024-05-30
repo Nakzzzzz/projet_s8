@@ -8,7 +8,7 @@ title: Accueil
 
 Bienvenue dans la documentation du projet GROW. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-![Poster projet](images/LOGO_GROW.jpg)
+![Poster projet](images/LOGOGROW.jpg)
 
 ## À propos du Projet
 
