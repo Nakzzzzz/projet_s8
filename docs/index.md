@@ -6,7 +6,7 @@ title: Accueil
 
 # Bienvenue sur notre documentation
 
-Bienvenue dans la documentation du projet XYZ. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation du projet GROW. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
 ![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
 
