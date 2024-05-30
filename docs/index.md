@@ -8,7 +8,7 @@ title: Accueil
 
 Bienvenue dans la documentation du projet GROW. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
+![Logo de notre projet GROW](images/LOGO GROW.png)
 
 ## À propos du Projet
 
