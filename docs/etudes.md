@@ -17,3 +17,4 @@ Nous avons installé un serveur Node-RED, un serveur MQTT et un phpMyAdmin sur u
 * avoir un historique des données d'Amiens,
 * avoir un dashboard des données d'Amiens
 
+</p>
