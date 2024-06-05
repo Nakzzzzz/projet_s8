@@ -15,3 +15,6 @@ Ci-dessous, un premier schéma de GROW. Notre serre est similaire à une petite 
 
 ![Schéma de la serre GROW](images/SCHEMASERRE.jpg)
 
+<p style="text-align:justify;">
+La structure de la serre est faite de bois pour les extrémités des murs et le sol, et de plexiglas pour les murs et le toit. L'intégralité des parties de la serre a été usinée à l'école.
+</p>
