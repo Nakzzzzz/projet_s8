@@ -14,9 +14,9 @@ Bienvenue dans la documentation du projet GROW. Ce site a pour but de fournir to
 
 Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
 <p style="text-align:justify;">
-Aujourd'hui, de nombreuses personnes habitant dans les villes ont peu d'espace pour cultiver des aliments, ou tout simplement faire pousser des plantes.
-** A FINIR **
-GROW est une serre connectée intelligente, conçue dans le cadre de notre projet de fin de 4ème année d'école d'ingénieur en réseaux informatiques et objets connectés. À travers les données de capteurs et d'API, nous allons pouvoir modifier les actions faites par notre serre pour permettre une évolution optimale des végétaux plantés dans la serre.
+Aujourd'hui, de nombreuses personnes souhaitent se mettre au jardinage ou à l'entretien de plantes. Les citadins, habitants par définition dans les villes, ont très souvent peu d'espace pour cultiver des légumes ou faire pousser des plantes. 
+Pour répondre à ce besoin de plus en plus grandissant, nous avons réfléchi à une solution qui pourrait allier à la fois le jardinage et les petits espaces.
+GROW est une serre connectée intelligente, conçue dans le cadre de notre projet de fin de 4ème année d'école d'ingénieur en réseaux informatiques et objets connectés. Cette serre a pour objectif de permettre aux personnes habitants dans des appartements de faire du jardinage à petite échelle sur le balcon, la terrasse ou même chez eux.
 </p>
 
 
