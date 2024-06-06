@@ -24,6 +24,6 @@ GROW est une serre connectée intelligente, conçue dans le cadre de notre proje
 
 ## Poster
 
-![Poster projet](images/poster.jpg)
+![Poster projet](images/poster_grow.jpg)
 
 ---
