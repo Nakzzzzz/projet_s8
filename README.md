@@ -1,8 +1,8 @@
-# Template-project
+# GROW 
 
-Template pour la création d'un repo type projet pour le MakerSpace. Doc gérée via le thème [Just-The-Docs](https://just-the-docs.com) en vanilla.
+![Logo de notre projet GROW](images/LOGOGROW.png)
 
-## Bienvenue sur Notre Projet
+## Bienvenue sur Notre Projet "GROW"
 
 Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les ressources nécessaires pour comprendre, utiliser et contribuer à notre projet.
 
