@@ -1,10 +1,10 @@
 # GROW 
 
-![Logo de notre projet GROW](images/LOGOGROW.png)
+Bienvenue sur la page de notre projet S8 "GROW" ! 
 
 ## Bienvenue sur Notre Projet "GROW"
 
-Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les ressources nécessaires pour comprendre, utiliser et contribuer à notre projet.
+Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les ressources nécessaires pour comprendre notre projet.
 
 ### Contenu du Repository
 
