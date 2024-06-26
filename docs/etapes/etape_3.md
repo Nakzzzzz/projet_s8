@@ -5,9 +5,9 @@ parent: Etapes de fabrication
 nav_order: 1
 ---
 
-# Préparation des Matériaux
+# Réalisation de la partie Software
 
-Cette section décrit la première étape du processus de fabrication : la préparation des matériaux.
+Cette section décrit la dernière étape du processus de fabrication : la réalisation de la partie Software
 
 ## Liste des Matériaux
 
