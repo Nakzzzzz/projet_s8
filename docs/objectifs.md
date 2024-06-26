@@ -8,7 +8,9 @@ title: Objectifs du projet
 
 Dans le monde actuel, une majeure partie de la population vit dans des villes et plus particulièrement dans des mégapoles. Il nous suffit de se pencher sur notre propre pays pour s’en rendre compte. 15 millions, c’est actuellement le nombre d’habitant de Paris et sa banlieue. Cela représente près d’1/4 de la population totale française. Dans ces grandes villes où la place n’est pas forcément de mise, avoir son propre jardin ou son potager est toujours un objectif très complexe à atteindre. 
 
-C’est à partir de ce constat que l’idée d’une solution innovante nous est venue. Une idée où faire pousser ses propres légumes ne serait une activité possible pour tous, une idée où peu importe où vous seriez dans le monde, vos fruits et légumes seraient aussi autonomes que les étudiant I4-FISA-RIOC. Finalement une idée où un potager ne tiendrait qu’avec 40/30cm. Cette idée, c’est la nôtre, faire en sorte d’avoir une serre intelligente, autonome qui puisse tenir dans une boite à taille réduite. Ce projet, c’est « GROW ».
+C’est à partir de ce constat que l’idée d’une solution innovante nous est venue. Une idée où faire pousser ses propres légumes ne serait une activité possible pour tous, une idée où peu importe où vous seriez dans le monde, vos fruits et légumes seraient aussi autonomes que les étudiant I4-FISA-RIOC. Finalement une idée où un potager ne tiendrait qu’avec 40/30cm. Cette idée, c’est la nôtre, faire en sorte d’avoir une serre intelligente, autonome qui puisse tenir dans une boite à taille réduite. 
+
+Ce projet, c’est « GROW ».
 
 ## Contexte du Projet
 
