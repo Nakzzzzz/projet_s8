@@ -20,9 +20,11 @@ Cette section décrit la première étape du processus de fabrication : la conce
 
 ## Procédure de Préparation
 
-1. **Nettoyage** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
-2. **Découpe** : Découpez les matériaux A et B selon les dimensions spécifiées.
-3. **Prétraitement** : Appliquez un traitement de surface si nécessaire.
+1. **Réalisation du modèle 3D** : Réaliser votre modèle 3D pour avoir les fondations de votre serre.
+2. **Assemblage du Plexiglass** : Collez votre film de polycarbonate à votre plexiglass préalablement découpé.
+3. **Préparation de la découpe laser** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
+4. **Découpe** : Découpez le bois à l'aide de l'imprimante laser et du modèle 3D précédement réalisé.
+5. **Assemblage total** : Assemblez votre base en bois avec le plexiglass.
 
 ## Conseils de Sécurité
 
@@ -31,4 +33,4 @@ Cette section décrit la première étape du processus de fabrication : la conce
 
 ---
 
-Une fois cette étape terminée, passez à l'[Assemblage](/assemblage).
+Une fois cette étape terminée, passez à la [mise en place des serveurs](etape_2.md).
