@@ -11,9 +11,12 @@ Cette section décrit la première étape du processus de fabrication : la conce
 
 ## Liste des Matériaux
 
-- Matériau A
-- Matériau B
-- Outils nécessaires
+- Bois
+- Plexiglass
+- Film polycarbonate transparent
+- Outils :
+  - Découpeuse laser
+  - Logiciel ""
 
 ## Procédure de Préparation
 
