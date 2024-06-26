@@ -9,6 +9,8 @@ nav_order: 2
 
 Après la préparation de la maquette, l'étape suivante est la mise en place des serveurs.
 
+C'est ici probablement l'une des étapes majeure pour le bon fonctionnement du projet. La mise en place des serveurs MQTT et FI-WARE
+
 ## Étapes d'Assemblage
 
 1. **Organisation** : Organisez tous les composants préparés.
