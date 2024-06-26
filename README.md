@@ -9,12 +9,13 @@ Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les resso
 ### Contenu du Repository
 
 - **Documentation :** Toutes les documentations techniques et guides d'utilisation sont disponibles dans le dossier `docs`. Voir le site de doc associé.
-  - [Présenation du projet](docs/index.md)
+  - [Présentation du projet](docs/index.md)
   - [Objectifs du projet](docs/objectifs.md)
   - [Etude technique](docs/etudes.md)
   - [Conception](docs/conception.md)
-  - [Etapes de Fabrication](docs/etapes/etapes.md) 
-- **project :** Toutes les sources de notre projet.
+  - [Etapes de Fabrication](docs/etapes/etapes.md)
+    
+- **Project :** Toutes les sources de notre projet.
   - [Documentation / Code](project)
 
 ### Comment Utiliser ce Repository ?
