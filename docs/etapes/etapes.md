@@ -13,7 +13,7 @@ Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici
 
 Le processus de fabrication est divisé en plusieurs étapes clés :
 
-1. [Préparation des Matériaux](etape_1)
+1. [Préparation des Matériaux](etape_1.md)
 2. [Assemblage](etape_2)
 3. [Finition]()
 4. [Contrôle Qualité]()
