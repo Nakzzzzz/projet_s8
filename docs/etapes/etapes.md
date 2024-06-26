@@ -8,6 +8,7 @@ has_children: true
 # Étapes de Fabrication
 
 Bienvenue dans la section dédiée aux étapes de fabrication du projet GROW. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
+
 Concernant notre projet, s’étant chacun réparti des tâches claires, presque toutes celle-ci étaient donc réalisées en parallèle. Nous allons vous présenter chacune d’entre-elles 
 
 
