@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Préparation des Matériaux
+title: Conception de la maquette
 parent: Etapes de fabrication
 nav_order: 1
 ---
 
-# Préparation des Matériaux
+# Conception de la maquette
 
-Cette section décrit la première étape du processus de fabrication : la préparation des matériaux.
+Cette section décrit la première étape du processus de fabrication : la conception de la maquette.
 
 ## Liste des Matériaux
 
