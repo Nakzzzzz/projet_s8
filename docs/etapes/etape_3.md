@@ -24,11 +24,8 @@ Cette section décrit la dernière étape du processus de fabrication : la réal
 2. **Découpe** : Découpez les matériaux A et B selon les dimensions spécifiées.
 3. **Prétraitement** : Appliquez un traitement de surface si nécessaire.
 
-## Conseils de Sécurité
+## Conseils de Sécurité du code 
 
-- Portez toujours l'équipement de protection individuelle.
-- Suivez les instructions de sécurité des outils utilisés.
+- **Toujours** vérifier le branchement de vos composants électronique pour éviter un potentiel court-circuit.
 
 ---
-
-Une fois cette étape terminée, passez à l'[Assemblage](/assemblage).
