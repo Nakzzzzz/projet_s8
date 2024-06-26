@@ -13,10 +13,9 @@ Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici
 
 Le processus de fabrication est divisé en plusieurs étapes clés :
 
-1. [Préparation des Matériaux](etape_1.md)
-2. [Assemblage](etape_2)
-3. [Finition]()
-4. [Contrôle Qualité]()
+1. [Conception de la maquette ](etape_1.md)
+2. [Mise en place des serveurs (FI-WARE, MQTT)](etape_2.md)
+3. [Réalisation de la partie Software](etape_3.md)
 
 ## Commencer
 
