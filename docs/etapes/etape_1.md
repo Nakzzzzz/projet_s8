@@ -20,7 +20,7 @@ Cette section décrit la première étape du processus de fabrication : la conce
 
 ## Procédure de Préparation
 
-1. **Réalisation du modèle 3D** : Réaliser votre modèle 3D pour avoir les fondations de votre serre.
+1. **Réalisation du modèle 3D** : Réaliser votre [modèle 3D](project/maquette.pdf) pour avoir les fondations de votre serre.
 2. **Assemblage du Plexiglass** : Collez votre film de polycarbonate à votre plexiglass préalablement découpé.
 3. **Préparation de la découpe laser** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
 4. **Découpe** : Découpez le bois à l'aide de l'imprimante laser et du modèle 3D précédement réalisé.
