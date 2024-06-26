@@ -16,7 +16,7 @@ Cette section décrit la première étape du processus de fabrication : la conce
 - Film polycarbonate transparent
 - Outils :
   - Découpeuse laser
-  - Logiciel ""
+  - Logiciel de modélisation 3D
 
 ## Procédure de Préparation
 
