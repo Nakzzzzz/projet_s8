@@ -8,7 +8,8 @@ Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les resso
 
 ### Contenu du Repository
 
-- **Documentation :** Toutes les documentations techniques et guides d'utilisation sont disponibles dans le dossier `docs`. Voir le site de doc associé. 
+- **Documentation :** Toutes les documentations techniques et guides d'utilisation sont disponibles dans le dossier `docs`. Voir le site de doc associé.
+  - [Etapes de Fabrication](docs/) 
 - **project :** Toutes les sources de notre projet.
 
 ### Comment Utiliser ce Repository ?
