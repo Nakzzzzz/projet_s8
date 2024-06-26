@@ -19,10 +19,6 @@ Le processus de fabrication est divisé en plusieurs étapes clés :
 2. [Mise en place des serveurs (FI-WARE, MQTT)](etape_2.md)
 3. [Réalisation de la partie Software](etape_3.md)
 
-## Commencer
-
-Pour commencer, assurez-vous de bien comprendre chaque étape et de disposer de tous les outils et matériaux nécessaires. Suivez les étapes dans l'ordre pour garantir la qualité et l'efficacité du processus de fabrication.
-
 ---
 
 Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre équipe.
