@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assemblage
+title: Mise en place des serveurs (FI-WARE, MQTT)
 parent: Etapes de fabrication
 nav_order: 2
 ---
