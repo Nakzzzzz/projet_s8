@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Préparation des Matériaux
+title: Réalisation de la partie Software
 parent: Etapes de fabrication
 nav_order: 1
 ---
