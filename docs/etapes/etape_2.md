@@ -5,9 +5,9 @@ parent: Etapes de fabrication
 nav_order: 2
 ---
 
-# Assemblage
+# Mise en place des serveurs (FI-WARE, MQTT)
 
-Après la préparation des matériaux, l'étape suivante est l'assemblage.
+Après la préparation de la maquette, l'étape suivante est la mise en place des serveurs.
 
 ## Étapes d'Assemblage
 
